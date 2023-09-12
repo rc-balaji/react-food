@@ -1,0 +1,9 @@
+PS A:\react-native\react-food>  npm i react-router-dom react-router
+PS A:\react-native\react-food>  npm i react-redux
+PS A:\react-native\react-food>  npm i @reduxjs/toolkit
+PS A:\react-native\react-food>  npm i react-icons                     
+PS A:\react-native\react-food> npm i axios
+PS A:\react-native\react-food> npm i emailjs-com
+
+
+npm i react-router-dom react-router react-redux @reduxjs/toolkit react-icons axios emailjs-com
